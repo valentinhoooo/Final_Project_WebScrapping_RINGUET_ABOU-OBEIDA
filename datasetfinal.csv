@@ -1,0 +1,493 @@
+Règne,Embranchement,Classe,Ordre,Famille,Genre,Espèce,Nom latin,name,Image_URL,Zone,Vulnerability
+Animal,Chordé vertébré,Reptile,Squamate,Agamidae,Intellagama,lesueurii,intellagama lesueurii,agame aquatique,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-dragon-d-eau-australien.jpg,Océanie.,Least Concern
+Animal,Chordé vertébré,Reptile,Squamate,Agamidae,Pogona,vitticeps,pogona vitticeps,agame barbu,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-dragon-barbu-central-1.jpg,Océanie,Least Concern
+Animal,Chordé vertébré,Oiseaux,Accipitriforme,Accipitridé,Haliaeetus,leucocephalus,haliaeetus leucocephalus,aigle a tete blanche,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-pygargue-a-tete-blanche.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Oiseaux,Accipitriforme,Accipitridé,Aquila,audax,aquila audax,aigle australien,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-aigle-australien-d-australie.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Oiseaux,Accipitriforme,Accipitridae,Harpia,harpya,harpia harpya,aigle harpie,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-harpie-feroce.jpg,Texte non trouvé,Aucun résultat
+Animal,Chordé vertébré,Reptilia,Crocodilia,,Alligator,mississippiensis,alligator mississippiensis,alligator,https://www.monde-animal.fr/wp-content/uploads/2020/12/fiche-animale-monde-animal-alligator-d-amerique-mississipiensis.jpg,Amérique du Sud,Aucun résultat
+Animal,Chordé vertébré,Amphibien,Caudata,Ambystomatidae,Ambystoma,maculatum,ambystoma maculatum,ambystome macule,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-salamandre-maculée.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Amphibien,Caudata,Ambystomatidae,Ambystoma,opacum,ambystoma opacum,ambystome marbre,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-salamandre-marbrée.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Amphibien,Caudata,Ambystomatidae,Ambystoma,tigrinum,ambystoma tigrinum,ambystome tigre,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-salamandre-tigree.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cétartiodactyle,Antilocapridé,Antilocapra,americana,antilocapra americana,antilocapre,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-pronghorn.jpg,Amérique du Nord,Aucun résultat
+Animal,Chordé vertébré,Mammifère placentaire,Cetartiodactyle ruminant,Bovidae antilopinae,Antilope,cervicapra,antilope cervicapra,antilope cervicapre,https://www.monde-animal.fr/wp-content/uploads/2021/09/fiche-animale-monde-animal-antilope-cervicapre-antilope-cervicapra.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé antilopiné,Saiga,tatarica,saiga tatarica,antilope saiga,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-saiga.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Aves,Psittaciformes,Psittacidae,Ara,ararauna,ara ararauna,ara bleu,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-ara-bleu-1.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Aves,Psittaciformes,Psittacidae,Anodorhynchus,hyacinthinus,anodorhynchus hyacinthinus,ara hyacinthe,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-ara-hyacinthe.jpg,Asie,Least Concern
+Animal,Chordé vertébré,Aves,Psittaciformes,Psittacidae,Ara,macao,ara macao,ara rouge,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-ara-rouge.jpg,Amérique du Sud ,Least Concern
+Animal,Chordé vertébré,Aves,Struthioniforme,Struthionidae,Struthio,camelus,struthio camelus,autruche d'afrique,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-autruche-afrique.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cercopithecidae,Papio,anubis,papio anubis,babouin anubis,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-babouin-olive.jpg, Amérique du Sud,Aucun résultat
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cercopithecidae,Papio,ursinus,papio ursinus,babouin chacma,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-babouin-chacma.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cercopithecidae,Papio,cynocephalus,papio cynocephalus,babouin cynocephale,https://www.monde-animal.fr/wp-content/uploads/2021/02/fiche-animale-monde-animal-babouin-jaune-2.jpg,nord de l’Afrique Subsaharienne,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cercopithecidae,Papio,papio,papio papio,babouin de guinee,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-babouin-de-guinée.jpg,sud de l’Afrique,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cercopithecidae,Papio,hamadryas,papio hamadryas,babouin hamadryas,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-babouin-hamadryas.jpg,Afrique de l’Est,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cétartiodactyle cétacé mysticète,Balenopteridae,Megaptera,novaeangliae,megaptera novaeangliae,baleine a bosse,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-baleine-a-bosse.jpg,Afrique de l’Est,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cétacé mysticète,Balaenopteridae,Balaenoptera,musculus,balaenoptera musculus,baleine bleue,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-baleine-bleue.jpg,nord de l’Afrique Subsaharienne,Least Concern
+Animal,Chordé vertébré,Reptile lépidosaurien,,Corytophanidae,Basiliscus,plumifrons,basiliscus plumifrons,basilic vert,https://www.monde-animal.fr/wp-content/uploads/2020/05/basilic-vert-basiliscus-plumifrons.jpg,Océan Atlantique,Near Threatened
+Animal,Chordé vertébré,Aves,Pelecaniforme,Balaenicipitidae,Balaeniceps,rex,balaeniceps rex,bec-en-sabot du nil,https://www.monde-animal.fr/wp-content/uploads/2021/02/fiche-animale-monde-animal-bec-en-sabot-du-nil-balaeniceps.jpg,océan Atlantique,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Mustélidae,Mustela,nivalis,mustela nivalis,belette,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-belette-d-europe.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cétacé,Monodontidae,Delphinapterus,leucas,delphinapterus leucas,beluga,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-beluga-1.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidae capreolinae,Odocoileus,virginianus,odocoileus virginianus,biche des paletuviers,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-cerf-de-virginie.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé boviné,Bison,bison,bison bison,bison d'amerique du nord,https://www.monde-animal.fr/wp-content/uploads/2021/02/fiche-animale-monde-animal-bison-amerique-du-nord-bison-bison.jpg,océan Arctique,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé boviné,Bison,bonasus,bison bonasus,bison d'europe,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-bison-d-europe.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Mustelidae,Meles,meles,meles meles,blaireau europeen,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-blaireau-europeen.jpg, Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidae,Ovibos,moschatus,ovibos moschatus,boeuf musque,https://www.monde-animal.fr/wp-content/uploads/2021/06/fiche-animale-monde-animal-boeuf-musque.jpg,Eurasie,Vulnerable
+Animal,Chordé vertébré,Mammalia,Primates,Hominidae,Pan,paniscus,pan paniscus,bonobo,https://www.monde-animal.fr/wp-content/uploads/2020/12/fiche-animale-monde-animal-bonobo.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé capriné,Capra,ibex,capra ibex,bouquetin des alpes,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-bouquetin-des-alpes.jpg,Texte non trouvé,Lower Risk/conservation dependent
+Animal,Chordé vertébré,Mammalia,Cetartiodactyla,,Alcelaphus,buselaphus,alcelaphus buselaphus,bubale roux,https://www.monde-animal.fr/wp-content/uploads/2021/02/fiche-animale-monde-animal-bubale-roux.jpg,Afrique,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé boviné,Syncerus,caffer,syncerus caffer,buffle d'afrique,https://www.monde-animal.fr/wp-content/uploads/2021/02/fiche-animale-monde-animal-buffle-d-afrique-syncerus-caffer.jpg,Europe,Vulnerable
+Animal,Chordé vertébré,Oiseaux,Psittaciformes,Cacatuidae,Cacatua,galerita,cacatua galerita,cacatoes a huppe jaune,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-cacatoes-a-huppe-jaune.jpg,Afrique,Vulnerable
+Animal,Chordé vertébré,Oiseaux,Psittaciformes,Cacatuidae,Eolophus,roseicapilla,eolophus roseicapilla,cacatoes rosalbin,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-cacatoes-rosalbin.jpg, de l’Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cetacea odontoceti,Physeteridae,Physeter,macrocephalus,physeter macrocephalus,cachalot,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-grand-cachalot.jpg,Océanie,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Alligatoridae caimaninae,Caiman,crocodilus,caiman crocodilus,caiman a lunettes,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-caiman-à-lunettes.jpg,Atlantique,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Alligatoridae caimaninae,Melanosuchus,niger,melanosuchus niger,caiman noir,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-caiman-noir.jpg,Atlantique,Least Concern
+Animal,Chordé vertébré,Reptile,Testudines,Cheloniidae,Caretta,carette,caretta caretta,caouanne,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-tortue-caouanne-caretta-caretta.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cebidae,Cebus,capucinus,cebus capucinus,capucin a face blanche,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-sapajou-capucin-a-tete-blanche-colombie.jpg.webp,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Cebidae,Cebus,imitator,cebus imitator,capucin a face blanche du panama,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-capucin-a-face-blanche-du-panama.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Rongeur,Cavidae,Hydrochoerus,hydrochaeris,hydrochoerus hydrochaeris,capybara,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-capybara.jpg,Amérique Centrale,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Mustélidé,Gulo,gulo,gulo gulo,carcajou,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-carcajou-glouton.jpg,Amérique du Sud,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidé capreoliné,Rangifer,tarandus,rangifer tarandus,caribou,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-caribou.jpg,Amérique du Nord,Endangered
+Animal,Chordé vertébré,Oiseaux,Casuariiforme,Casuariidae,Casuarius,casuarius,casuarius casuarius,casoar a casque,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-casoar-a-casque.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Rongeur,Castoridé,Castor,canadensis,castor canadensis,castor du canada,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-castor-du-canada.jpg.webp,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidé cerviné,Cervus,elaphus,cervus elaphus,cerf elaphe,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-cerf-elaphe.jpg.webp,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Canis,mesomelas,canis mesomelas,chacal a chabraque,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-chacal-a-chabraque.jpg,Amérique du Nord,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Camelidé,Camelus,bactrianus,camelus bactrianus,chameau de bactriane,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-chameau-bactriane.jpg,Afrique.,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé capriné,Rupicapra,rupicapra,rupicapra rupicapra,chamois,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-chamois.jpg,sud de l’Afrique,Least Concern
+Animal,Chordé vertébré,Mammalia,Carnivora,Felidae felinae,Felis,silvestris,felis silvestris,chat sauvage,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-chat-sauvage.jpg,Asie,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidé capreoliné,Capreolus,capreolus,capreolus capreolus,chevreuil,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-chevreuil.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Lycaon,pictus,lycaon pictus,chien sauvage africain,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-lycaon.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidae,Cuon,alpinus,cuon alpinus,chien sauvage asiatique,https://www.monde-animal.fr/wp-content/uploads/2021/05/fiche-animale-monde-animal-dhole-chien-sauvage-asiatique-cuon-alpinus-scaled.jpg,Amérique du Nord,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Primate,Hominidé,Pan,troglodytes,pan troglodytes,chimpanze,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-chimpanze-commun.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Oiseaux,Strigiformes,Tytonidé,Tyto,alba,tyto alba,chouette effraie,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-chouette-effraie.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Oiseaux,Strigiformes,Strigidé,Strix,aluco,strix aluco,chouette hulotte,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-chouette-hulotte.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore,Procyonidae,Nasua,narica,nasua narica,coati a nez blanc,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-coati-brun.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore,Procyonidae,Nasua,nasua,nasua nasua,coati a queue annelee,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-coati-roux.jpg,Europe,Endangered
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate serpent,Elapidae,Ophiophagus,hannah,ophiophagus hannah,cobra royal,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-cobra-royal.jpg,Amérique du Sud.,Endangered
+Animal,Chordé vertébré,Oiseaux,Accipitriforme,Cathartidé,Vultur,gryphus,vultur gryphus,condor des andes,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-condor-des-andes.jpg,Amérique du Sud.,Aucun résultat
+Animal,Chordé vertébré,,Carnivore féliforme,Félin féliné,Puma,concolor,puma concolor,cougar,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-puma.jpg.webp,Asie du Sud-est.,Vulnerable
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate serpentes,Natricidae,Natrix,natrix,natrix natrix,couleuvre a collier,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-couleuvre-a-collier-natrix-natrix.jpg,Amérique du Sud.,Least Concern
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate serpentes,Natricidae,Natrix,maura,natrix maura,couleuvre viperine,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-couleuvre-viperine.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Canis,latrans,canis latrans,coyote,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-coyote-.jpg,Europe,Endangered
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Phrynosomatidae,Phrynosoma,cornutum,phrynosoma cornutum,crapaud cornu,https://www.monde-animal.fr/wp-content/uploads/2021/06/fiche-animale-monde-animal-crapaud-cornu-du-texas.jpg,Europe,Endangered
+Animal,Chordé vertébré,Amphibien,Anoure,Microhylidé,Dyscophus,antongilii,dyscophus antongilii,crapaud rouge de madagascar,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-crapaud-rouge-de-madagascar.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Crocodylidae,Crocodylus,acutus,crocodylus acutus,crocodile americain,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-crocodile-americain-crocodylus-acutus.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Crocodylidé,Crocodylus,johnstoni,crocodylus johnstoni,crocodile de johnston,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-crocodile-de-johnston.jpg,Afrique ,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Crocodylidé,Crocodylus,niloticus,crocodylus niloticus,crocodile du nil,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-crocodile-du-nil-crocodylus-niloticus.jpg,Amérique Centrale,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Crocodylidé,Crocodylus,porosus,crocodylus porosus,crocodile marin,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-crocodile-marin-crocodylus.jpg,Océanie,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora feliforma,Eupleridae,Cryptoprocta,ferox,cryptoprocta ferox,cryptoprocte feroce,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-fossa-cryptoprocta-ferox.jpg.webp,’Océanie,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Hyracoidea,Procaviidae,Procavia,capensis,procavia capensis,daman des rochers,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-daman-des-rochers.jpg,Asie,Least Concern
+Animal,Chordé vertébré,Mammifère thérien,Cétacé odontocète,Delphinidé,Tursiops,truncatus,tursiops truncatus,dauphin a gros nez,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-grand-dauphin.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Agamidé,Moloch,horridus,moloch horridus,diable cornu,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-diable-cornu.jpg,tous les océans,Endangered
+Animal,Chordé vertébré,Mammifère marsupial,Dasyuromorphe,Dasyuridé,Sarcophilus,harrisii,sarcophilus harrisii,diable de tasmanie,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-diable-de-tasmanie.jpg,Asie,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Canis,lupus,canis lupus dingo,dingo,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-dingo.jpg,Texte non trouvé,Vulnerable
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate lacertilia,Phillodactylidae,Tarentola,mauritanica,tarentola mauritanica,drago,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-tarente-de-mauretanie-tarentola-mauritanica.jpg,Océanie,Least Concern
+Animal,Chordé vertébré,Reptile,Squamate,Agamidé,Physignathus,cocincinus,physignathus cocincinus,dragon d'eau chinois,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-dragon-d-eau-chinois.jpg,Océanie,Critically Endangered
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Varanidé,Varanus,komodoensis,varanus komodoensis,dragon de komodo,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-dragon-de-komodo.jpg,Océanie.,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Camelidé,Camelus,dromedarius,camelus dromedarius,dromadaire,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-dromadaire.jpg,Asie de l’Est.,Least Concern
+Animal,Chordé vertébré,Mammifère,Sirénien,Dugongidé,Dugong,dugon,dugong dugon,dugong,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-dugong.jpg,Asie,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Rongeur (Rodentia),Sciuridae,Sciurus,vulgaris,sciurus vulgaris,ecureuil d'eurasie,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-ecureuil-roux.jpg,Afrique,Critically Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidae capreolinae,Alces,alces,alces alces,elan,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-orignal-elan.jpg,Europe,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Proboscidien,Elephantidé,Loxodonta,africana,loxodonta africana,elephant d'afrique,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-elephant-savane-afrique.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Proboscidien,Elephantidé,Elephas,maximus,elephas maximus,elephant d'asie,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-elephant-asie.jpg,Amérique du Nord,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora,Phocidae,Mirounga,angustirostris,mirounga angustirostris,elephant de mer du nord,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-elephant-de-mer-du-nord.jpg,Asie du Sud,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora,Phocidae,Mirounga,leonina,mirounga leonina,elephant de mer du sud,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-elephant-de-mer.jpg,Afrique Subsaharienne.,Least Concern
+Animal,Chordé vertébré,Oiseaux,Casuariiphorme,Dromaiidé,Dromaius,novaehollandiae,dromaius novaehollandiae,emeu,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-emeu-d-australie-1.jpg, Pacifique Nord,Least Concern
+Animal,Chordé vertébré,Aves,Falconiformes,Falconidae,Falco,peregrinus,falco peregrinus,faucon pelerin,https://www.monde-animal.fr/wp-content/uploads/2020/12/fiche-animale-monde-animal-faucon-pelerin.jpg.webp,"Océanie,",Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Vulpes,zerda,vulpes zerda,fennec,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-fennec.jpg,"Océanie,",Near Threatened
+Animal,Chordé vertébré,Oiseaux,Phoenicopteriformes,Phoenicopteridae,Phoenicopterus,roseus,phoenicopterus roseus,flamant rose,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-flamant-rose.jpg,Asie,Least Concern
+Animal,Chordé vertébré,Mammalia,Carnivora,Mustelidae,Martes,foina,martes foina,fouine,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-fouine.jpg,Afrique,Vulnerable
+Animal,Chordé vertébré,Mammifère,Pilosa,Myrmécophagidae,Myrmecophaga,tridactyla,myrmecophaga tridactyla,fourmilier geant,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-tamanoir.jpg.webp,Europe,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé boviné,Bos,frontalis,bos frontalis,gaur,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-gaur-gayal.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Reptile archosauromorphe,Crocodilien,Gavialidé,Gavialis,Gangeticus,gavialis gangeticus,gavial du gange,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-gavial-du-gange.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cetartiodactyle ruminant,Bovidae antilopinae,Eudorcas,thomsonii,eudorcas thomsonii,gazelle de thomson,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-gazelle-de-thomson.jpg,Asie,Near Threatened
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamata lepidosauria gekkota,Diplodactylidae,Correlophus,ciliatus (Rhacodactylus jusqu’en 2012),correlophus ciliatus ,gecko a crete,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-gecko-a-crete.jpg,Asie.,Vulnerable
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate lacertilia,Gekkonidae,Gekko,gecko,gekko gecko,gecko des habitations,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-gecko-tokay-gekko-gecko.jpg,Afrique de l’Est,Least Concern
+Animal,Chordé vertébré,Aves (Oiseaux),Cuculiformes,Cuculidae,Geococcyx,californianus,geococcyx californianus,geocoucou de californie,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-gelada.jpg,Asie du sud-est,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Hylobatidae,Hylobates,lar,hylobates lar,gibbon a mains blanches,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-grand-geocoucou-geococcyx-californianus.jpg,Asie du sud-est,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Hylobatidae,Symphalangus,syndactylus,symphalangus syndactylus,gibbon siamang,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-gibbon-a-mains-blanches.jpg,Amérique du Nord,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Giraffidé,Giraffa,camelopardalis,giraffa camelopardalis,girafe,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-siamang-.jpg,Asie du Sud Est,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé alcelaphiné,Connochaetes,taurinus,connochaetes taurinus,gnou bleu,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-carcajou-glouton.jpg,Asie du Sud Est.,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé alcelaphiné,Connochaetes,gnou,connochaetes gnou,gnou noir,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-gnou-bleu.jpg,Afrique.,Aucun résultat
+Animal,Chordé vertébré,Mammifère placentaire,Primate,Hominidé,Gorilla,beringei,gorilla beringei,gorille de l'est,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-gnou-noir.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primate,Hominidae,Gorilla,gorilla,gorilla gorilla,gorille de l'ouest,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-gorille-de-lest.jpg,Afrique.,Endangered
+Animal,Chordé vertébré,Oiseaux,Strigiformes,Strigidae,Bubo,bubo,bubo bubo,grand duc d'europe,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-grand-dauphin.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé boviné,Tragelaphus,strepsiceros,tragelaphus strepsiceros,grand koudou,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-grand-geocoucou-geococcyx-californianus.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Chondrichthyens Elasmobranchii,Lamniforme,Lamnidae,Carcharodon,carcharias,carcharodon carcharias,grand requin blanc,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-grand-koudou.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Chondrichthyens Elasmobranchii,Carcharhiniforme,Sphyrnidé,Sphyrna,mokarran,sphyrna mokarran,grand requin marteau,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-grand-requin-blanc.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Aves (Oiseaux),Accipitriformes,Accipitridae,Gyps,fulvus,gyps fulvus,griffon,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-grand-requin-marteau.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Oiseaux,Gruiformes,Gruidae,Balearica,regulorum,balearica regulorum,grue grise couronnee,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-vautour-fauve.jpg,tous les océans,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Camelidae,Lama,guanicoe,lama guanicoe,guanaco,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-grue-royale.jpg,Europe,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Félin panthériné,Acinonyx,jubatus,acinonyx jubatus,guepard,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-guanaco.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Oiseaux,Accipitriforme,Accipitridé,Gypaetus,barbatus,gypaetus barbatus,gypaete barbu,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-guepard.jpg,Afrique,Endangered
+Animal,Chordé vertébré,Oiseaux,Strigiformes,Strigidé,Bubo,scandiacus,bubo scandiacus,harfang des neiges,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-babouin-hamadryas.jpg,subsaharienne,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Erinaceomorpha,Erinaceidae,Erinaceus,europaeus,erinaceus europaeus,herisson commun,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-harpie-feroce.jpg,sud de l’Afrique,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Mustélidae,Mustela,erminea,mustela erminea,hermine,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-herisson-d-europe.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Hippopotamidae,Hippopotamus,amphibius,hippopotamus amphibius,hippopotame ,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-hibou-grand-duc.jpg,Europe,Data Deficient
+Animal,Chordé vertébré,Aves (oiseaux),Passeriformes,Hirundinidae,Hirundo,rustica,hirundo rustica,hirondelle de cheminee,https://www.monde-animal.fr/wp-content/uploads/2020/04/hippopotame-google-photo.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Atelidae,Alouatta,caraya,alouatta caraya,hurleur noir,https://www.monde-animal.fr/wp-content/uploads/2021/06/fiche-animaux-monde-animal-hirondelle-rustique-hirundo-rustica.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Atelidae,Alouatta,seniculus,alouatta seniculus,hurleur roux,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-hurleur-noir.jpg,Europe,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora feliforma,Hyenidae,Crocuta,crocuta,crocuta crocuta,hyene tachetee,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-hurleur-roux.jpg,Europe,Vulnerable
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Iguanidé,Amblyrhynchus,cristatus,amblyrhynchus cristatus,iguane marin des galapagos,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-hyene-tachetee.jpg,Amérique du Sud,Endangered
+Animal,Chordé vertébré,reptile lépidosaurien,Squamate,Iguanidae,Cyclura,cornuta,cyclura cornuta,iguane rhinoceros,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-iguane-marin-des-galapagos.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Reptilia,Squamata lepidausauria,Iguanidae,Conolophus,subcristatus,conolophus subcristatus,iguane terrestre des galapagos,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-iguane-rhinoceros.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Reptile,Squamate,Iguanidé,Iguana,iguana,iguana iguana,iguane vert,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-iguane-terrestre-des-galapagos.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé Aepycerotiné,Aepyceros,melampus,aepyceros melampus,impala,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-iguane-vert-1.jpg,Amérique Centrale,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Félin panthériné,Panthera,onca,panthera onca,jaguar,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animaux-monde-animal-impala.jpg,îles Galapagos,Least Concern
+Animal,Chordé vertébré,Mammifère,Diprotodonte,Phascolarctidé,Phascolarctos,cinereus,phascolarctos cinereus,koala,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-baleine-a-bosse.jpg,Afrique du Sud-Est,Least Concern
+Animal,Chordé vertébré,Oiseaux,Coraciiformes,Alcedinidés,Dacelo,novaeguineae,dacelo novaeguineae,kookaburra,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-koala.jpg,Amérique du Sud ,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Lemuridé,Lemur,catta,lemur catta,lemur catta,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-kookaburra.jpg,Océan Atlantique,Critically Endangered
+Animal,Chordé vertébré,,Carnivore féliforme,Félin panthériné,Panthera,pardus,panthera pardus,leopard,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-maki-catta.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Mammalia,Carnivora,Phocidae,Hydrurga,leptonyx,hydrurga leptonyx,leopard de mer,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-leopard-panthere.jpg,Texte non trouvé,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore féliforme,Félin panthériné,Panthera,Uncia,panthera uncia,leopard des neiges,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-leopard-de-mer.jpg,Australie,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Felidae Pantherinae,Neofelis,nebulosa,neofelis nebulosa,leopard nebuleux,https://www.monde-animal.fr/wp-content/uploads/2020/06/panthere-des-neiges-panthera-uncia.jpg,Océanie,Aucun résultat
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Agamidae,Chlamydosaurus,kingii,chlamydosaurus kingii,lezard a collerette,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-panthère-nebuleuse.jpg,île de Madagascar,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Félin panthériné,Panthera,leo,panthera leo,lion,https://www.monde-animal.fr/wp-content/uploads/2021/06/fiche-animale-monde-animal-crapaud-cornu-du-texas.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidae,Chrysocyon,brachyurus,chrysocyon brachyurus,loup a criniere,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-lion.jpg,Antarctique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Canis,lupus,canis lupus arctos,loup arctique,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-loup-a-criniere.jpg,Asie,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Canis,lupus,canis lupus,loup gris,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-loup-arctique.jpg,Asie,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Mustélidé lutriné,Enhydra,lutris,enhydra lutris,loutre de mer,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-loup-gris.jpg,Océanie,Critically Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora caniforma,Mustelidae lutrinae,Pteronura,brasiliensis,pteronura brasiliensis,loutre geante,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-loutre-de-mer.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,(Félidé) Félin féliné,Lynx,rufus,lynx rufus,lynx bai,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-lycaon.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Félin féliné,Lynx,lynx,lynx lynx,lynx boreal,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-lynx-roux.jpg,Pacifique Nord,Least Concern
+Animal,Chordé vertébré,Aves (oiseaux),Charadriiformes,Alcidae,Fratercula,arctica,fratercula arctica,macareux moine,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-lynx-roux.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Oiseaux (Aves),Sphenisciforme,Spheniscidae,Aptenodytes,forsteri,aptenodytes forsteri,manchot empereur,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-maki-catta.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Aves,Ciconiiformes,Ciconiidae,Leptoptilos,crumenifer,leptoptilos crumenifer,marabout,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-manchot-empereur.jpg,Amérique du Nord,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Rongeur,Sciuridae,Marmota,marmota,marmota marmota,marmotte des alpes,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-marabout-d-afrique.jpg,Amérique du Nord,Endangered
+Animal,Chordé vertébré,Oiseaux,Coraciiformes,Alcedinidés,Alcedo,atthis,alcedo atthis,martin-pecheur d'europe,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-kookaburra.jpg,île de Madagascar,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Mustélidé,Martes,martes,martes martes,martre commune,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-martin-pecheur-d-europe.jpg,Antarctique,Vulnerable
+Animal,Chordé vertébré,Oiseaux,Accipitriforme,Sagittariidae,Sagittarius,serpentarius,sagittarius serpentarius,messager sagittaire,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-baleine-a-bosse.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Helodermatidé,Heloderma,suspectum,heloderma suspectum,monstre de gila,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-diable-cornu.jpg.webp,Europe,Critically Endangered
+Animal,Chordé vertébré,Mammalia,Carnivora,Mephitidae,Mephitis,mephitis,mephitis mephitis,mouffette,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-monstre-de-gila.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère thérien,Cétacé odontocète,Monodontidé,Monodon,monoceros,monodon monoceros,narval,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-mouffette-rayee.jpg,Océan Atlantique,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Hominidés,Nasalis,larvatus,nasalis larvatus,nasique,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-mouffette-rayee.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère marsupial,Diprotodonte,Macropodidé,Myrmecobius,fasciatus,myrmecobius fasciatus,numbat,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-narval.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé boviné,Tragelaphus,angasii,tragelaphus angasii,nyala,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-nasique.jpg,Amérique du Nord,Endangered
+Animal,Chordé vertébré,,Carnivore féliforme,Félin panthériné,Leopardus (ancinnement Felis),pardalis,leopardus pardalis ,ocelot,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-numbat.jpg,Atlantique Nord,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Giraffidé,Okapia,Johnstoni,okapia johnstoni,okapi,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-nyala.jpg,Amérique du Nord,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Hominidés,Pongo,pygmaeus,pongo pygmaeus,orang-outan de borneo,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-ocelot.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cetartiodactyle ruminant,Bovidae,Oreotragus,oreotragus,oreotragus oreotragus,oreotrague,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-okapi.jpg,Océan Atlantique,Critically Endangered
+Animal,Chordé vertébré,Mammifère marsupial,Monotrème,Ornithorhynchidé,Ornithorhynchus,anatinus,ornithorhynchus anatinus,ornithorynque,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-orang-outan-sumatra.jpg,Australie,Least Concern
+Animal,Chordé vertébré,Mammifère thérien,Cetacea odontoceti,Delphinidae,Orcinus,orca,orcinus orca,orque,https://www.monde-animal.fr/wp-content/uploads/2021/07/fiche-animale-monde-animal-oreotrague-oreotragus-oreotragus.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Reptile,Squamate,Anguidae anguinae,Anguis,fragilis,anguis fragilis,orvet,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-orignal-elan.jpg,Amérique du Sud,Aucun résultat
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidae hippotraginae,Oryx,gazella,oryx gazella,oryx gazelle,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-orvet-fragile-anguis-fragilis.jpg,Nord de l’île de Sumatra,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Ursidé tremarctiné,Tremarctos,ornatus,tremarctos ornatus,ours a lunettes,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-orvet-fragile-anguis-fragilis.jpg,Texte non trouvé,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Ursidé ursiné,Ursus,arctos,ursus arctos,ours brun,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-orvet-fragile-anguis-fragilis.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Ursidé ursiné,Ursus,maritimus,ursus maritimus,ours polaire,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-oryx-gazelle.jpg,Australie,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Ursidé ailuriné,Ailuropoda,melanoleuca,ailuropoda melanoleuca,panda geant,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-ours-a-lunettes.jpg,tous les océans,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Ailuridé,Ailurus,fulgens,ailurus fulgens,panda roux,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-ours-brun.jpg,Europe,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Pilosa folivora,Bradypodiae,Bradypus,variegatus,bradypus variegatus,paresseux a gorge brune,https://www.monde-animal.fr/wp-content/uploads/2020/06/panthere-des-neiges-panthera-uncia.jpg,Amérique du Sud,Vulnerable
+Animal,Chordé vertébré,Aves (Oiseaux),Pelecaniformes,Pelecanidae,Pelecanus,occidentalis,pelecanus occidentalis,pelican brun,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-panthère-nebuleuse.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate,Varanidé,Varanus,giganteus,varanus giganteus,perentie,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-pelican-brun-pelecanus-occidentalis.jpg,Asie du Sud-Est,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Cétartiodactyle,Suidae,Phacochoerus,africanus,phacochoerus africanus,phacochere commun,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-macareux-moine.jpg,Asie,Near Threatened
+Animal,Chordé vertébré,Mammifère marsupial,Diprotodonte,Petauridé,Petaurus,breviceps,petaurus breviceps,phalanger volant,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-perentie.jpg,Asie,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora,Phocidae,Phoca,vitulina,phoca vitulina,phoque commun,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-phacochere-commun-phacochoerus-africanus.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivora,Phocidae,Halichoerus,grypus,halichoerus grypus,phoque gris,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-phacochere-commun-phacochoerus-africanus.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Amphibien,Anoure,Dendrobatidé,Phyllobates,terribilis,phyllobates terribilis,phyllobate terrible,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-phoque-commun.jpg,Europe,Aucun résultat
+Animal,Chordé vertébré,Aves,Accipitriformes,Accipitridae,Pithecophaga,jefferyi,pithecophaga jefferyi,pithecophage des philippines,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-phoque-gris.jpg,Australie continentale,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Primates lemuriphorme,Indriidé,Propithecus,coquereli,propithecus coquereli,propitheque de coquerel,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-aigle-des-philippines.jpg,Océanie,Least Concern
+Animal,Chordé vertébré,Reptilia lepidosauria,Squamata,Pythonidae,Morelia,viridis,morelia viridis,python vert,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-sifaka-de-coquerel.jpg,Antarctique,Least Concern
+Animal,Chordé,Mammifère,Diprotodontia,Macropodidae,Setonix,brachyurus,setonix brachyurus,quokka,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-pygargue-a-tete-blanche.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Rongeur,Myocastoridae,Myocastor,coypus,myocastor coypus,ragondin,https://www.monde-animal.fr/wp-content/uploads/2021/09/fiche-animale-monde-animal-animaux-python-vert-arboricole.jpg,Océanie,Least Concern
+Animal,Chordé vertébré,Amphibia,Anura,Pelodryadidae,Ranoidea / Dryopsophus (anciennement Litoria),caerulea / caeruleus,ranoidea caerulea / dryopsophus caeruleus ,rainette arboricole d'australie,https://www.monde-animal.fr/wp-content/uploads/2021/09/fiche-animale-monde-animal-animaux-python-vert-arboricole.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Amphibien,Anoure,Hylidae,Hyla,arborea,hyla arborea,rainette arboricole d'europe,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-quokka.jpg,île de Madagascar,Near Threatened
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Procyonidae,Procyon,lotor,procyon lotor,raton laveur,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-rainette-de-white.jpg,Texte non trouvé,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidae,Vulpes,lagopus,vulpes lagopus,renard arctique,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-rainette-verte-hyla-arborea.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore caniforme,Canidé,Vulpes,vulpes,vulpes vulpes,renard roux,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-renard-polaire.jpg,Océanie,Vulnerable
+Animal,Chordé vertébré,Chondrichtyens (poissons cartilagineux),Orectolobiformes,Rhincodontidae,Rhincodon,typus,rhincodon typus,requin baleine,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-renard-polaire.jpg,Europe,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Périssodactyle,Rhinocérotidé,Ceratotherium,simum,ceratotherium simum,rhinoceros blanc,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-requin-baleine.jpg,Arctique,Aucun résultat
+Animal,Chordé vertébré,Mammifère placentaire,Périssodactyle,Rhinocérotidé,Diceros,bicornis,diceros bicornis,rhinoceros noir,https://www.monde-animal.fr/wp-content/uploads/2020/04/fiche-animale-monde-animal-grand-requin-blanc.jpg,Arctique,Least Concern
+Animal,Chordé vertébré,Amphibien,Caudata,Salamandridae,Salamandra,atra,salamandra atra,salamandre alpestre,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-rhinoceros-noir.jpg,Amérique du Nord,Endangered
+Animal,Chordé vertébré,Amphibien,Caudata,Salamandridae,Salamandra,salamandra,salamandra salamandra,salamandre commune,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-baleine-a-bosse.jpg,Océan Atlantique,Aucun résultat
+Animal,Chordé vertébré,Amphibien,Urodèle (Caudata),Cryptobranchidae,Andrias,davidianus,andrias davidianus,salamandre geante de chine,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-salamandre-tachetée.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidae cervinae,Rusa,unicolor,rusa unicolor,sambar,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-salamandre-tachetée.jpg,Alpes,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Suidae,Sus,scrofa,sus scrofa,sanglier,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-salamandre-tachetée.jpg,Chine,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Félin féliné,Leptailurus,serval,leptailurus serval,serval,https://www.monde-animal.fr/wp-content/uploads/2021/07/fiche-animale-monde-animal-oreotrague-oreotragus-oreotragus.jpg,Amérique du Nord,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Bovidé antilopiné,Antidorcas,marsupialis,antidorcas marsupialis,springbok,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-hurleur-noir.jpg,Afrique,Endangered
+Animal,Chordé vertébré,Oiseaux,Charadriiformes,Laridae,Sterna,paradisaea,sterna paradisaea,sterne arctique,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-hurleur-roux.jpg,Afrique,Aucun résultat
+Animal,Chordé vertébré,Mammifère placentaire,Carnivore,Herpestidae,Suricata,suricatta,suricata suricatta,suricate,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-gelada.jpg,Le serval vit dans plusieurs pays d’Afrique,Aucun résultat
+Animal,Chordé vertébré,Reptile lépidosaurien,Squamate serpent,Elapidae,Oxyuranus,microlepidotus,oxyuranus microlepidotus,taipan du desert,https://www.monde-animal.fr/wp-content/uploads/2020/11/fiche-animale-monde-animal-grand-dauphin.jpg,Asie du Sud Est.,Least Concern
+Animal,Chordé vertébré,Mammifère euthérien,Périssodactyle,Tapiridae,Tapirus,bairdii,tapirus bairdii,tapir de baird,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-sterne-arctique.jpg,Amérique du Sud,Endangered
+Animal,Chordé vertébré,Mammifère euthérien,Périssodactyle,Tapiridé,Tapirus,terrestris,tapirus terrestris,tapir du bresil,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-suricate.jpg,Amérique du Sud,Least Concern
+Animal,Chordé vertébré,Mammifère euthérien,Périssodactyle,Tapiridae,Tapirus,indicus,tapirus indicus,tapir malais,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-taipan-du-desert.jpg,Afrique,Least Concern
+Animal,Chordé vertébré,,Carnivore féliforme,Felidae pantherinae,Panthera,tigris,panthera tigris,tigre,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-tapir-malais.jpg,Afrique.,Least Concern
+Animal,Chordé vertébré,Reptile,Testudines,Testudinidae,Chelonoidis,nigra,chelonoidis nigra,tortue geante des galapagos,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-tarente-de-mauretanie-tarentola-mauritanica.jpg,Amérique du Sud,Aucun résultat
+Animal,Chordé vertébré,Reptile,Testudines,Dermochelyidae,Dermochelys,Coriacea,dermochelys coriacea,tortue luth,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-tarente-de-mauretanie-tarentola-mauritanica.jpg,Amérique Centrale (Amérique du Sud et Amérique du Nord).,Least Concern
+Animal,Chordé vertébré,Reptile,Testudines,Cheloniidae,Lepidochelys,olivacea,lepidochelys olivacea,tortue olivatre,https://www.monde-animal.fr/wp-content/uploads/2020/06/panthera-tigris-tigre.jpg,Amérique du Sud.,Vulnerable
+Animal,Chordé vertébré,Reptile,Testudines,Cheloniidae,Chelonia,mydas,chelonia mydas,tortue verte,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-tortue-caouanne-caretta-caretta.jpg,Asie,Vulnerable
+Animal,Chordé vertébré,Aves,Piciformes,Ramphastidae,Ramphastos,toco,ramphastos toco,toucan,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-tortue-geante-des-galapagos-1.jpg,Europe de l’Ouest,Critically Endangered
+Animal,Chordé vertébré,Amphibien,Caudata,Salamandridae,Ichthyosaura,alpestris,ichthyosaura alpestris,triton alpestre,https://www.monde-animal.fr/wp-content/uploads/2020/05/fiche-animale-monde-animal-tortue-olivatre.jpg,Europe de l’Ouest,Least Concern
+Animal,Chordé vertébré,Reptile lepidosaurien,Squamata,Varanidae,Varanus,exanthematicus,varanus exanthematicus,varan des savanes,https://www.monde-animal.fr/wp-content/uploads/2020/10/fiche-animale-monde-animal-triton-alpestre.jpg,Océan Atlantique,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Lemuridé,Varecia,variegata,varecia variegata,vari noir et blanc,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-aigle-australien-d-australie.jpg,Océan Atlantique,Vulnerable
+Animal,Chordé vertébré,Mammifère placentaire,Primates,Lemuridé,Varecia,rubra,varecia rubra,vari roux,https://www.monde-animal.fr/wp-content/uploads/2020/03/fiche-animale-monde-animal-dragon-de-komodo.jpg,Amérique du Sud.,Least Concern
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle,Camelidae,Vicugna,vicugna,vicugna vicugna,vigogne,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-perentie.jpg,Europe.,Least Concern
+Animal,Chordé vertébré,Mammifère marsupial,Diprotodonte,Macropodidé,Macropus,rufogriseus,macropus rufogriseus,wallaby a cou rouge,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-vari-noir-et-blanc.jpg,tous les océans,Least Concern
+Animal,Chordé vertébré,Mammifère marsupial,Diprotodonte,Macropodidé,Macropus,parma,macropus parma,wallaby de parma,https://www.monde-animal.fr/wp-content/uploads/2021/03/fiche-animale-monde-animal-vautour-fauve.jpg,Asie,Critically Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Artiodactyle ruminant,Cervidae cervinae,Cervus,canadensis,cervus canadensis,wapiti,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-monde-animal-vigogne.jpg,Afrique,Endangered
+Animal,Chordé vertébré,Mammifère marsupial,Diprotodonte,Vombatidés,Vombatus,Ursinus,vombatus ursinus,wombat commun,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-wallaby-de-bennett.jpg,Australie continentale,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Périssodactyle ruminant,Equidé,Equus,grevyi,equus grevyi,zebre de grevy,https://www.monde-animal.fr/wp-content/uploads/2020/07/fiche-animale-monde-animal-wallaby-de-bennett.jpg, l’île de Madagascar,Critically Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Périssodactyle ruminant,Equidae,Equus,zebra,equus zebra,zebre de montagne,https://www.monde-animal.fr/wp-content/uploads/2020/06/fiche-animale-wallaby-de-parma.jpg,’île de Madagascar,Endangered
+Animal,Chordé vertébré,Mammifère placentaire,Périssodactyle ruminant,Equidé,Equus,quagga,equus quagga,zebre des plaines,https://www.monde-animal.fr/wp-content/uploads/2020/09/fiche-animale-monde-animal-wapiti.jpg,Europe,Critically Endangered
+animal,chorde vertebre,oiseau,passeriforme,prunellide,prunella,modularis,prunella modularis,accenteur mouchet,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide hippotragine,addax,nasomaculatus,addax nasomaculatus,addax,,,Least Concern
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,aquila,chrysaetos,aquila chrysaetos,aigle royal,,,Least Concern
+animal,chorde vertebre,oiseau,pelecaniforme,ardeide,egretta,garzetta,egretta garzetta,aigrette garzette,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,alaudide,alauda,arvensis,alauda arvensis,alouette des champs,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,artiodactyle,camelide,vicugna,pacos,vicugna pacos,alpaga,,,Least Concern
+animal,chorde vertebre,reptile,squamate,boide,eunectes,murinus,eunectes murinus,anaconda geant,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,bubalus,depressicornis,bubalus depressicornis,anoa des plaines,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,ammodorcas,clarkei,ammodorcas clarkei,antilope de clarke,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,pantholops,hodgsonii,pantholops hodgsonii,antilope du tibet,,,Near Threatened
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,boselaphus,tragocamelus,boselaphus tragocamelus,antilope nilgaut,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide hippotragine,hippotragus,equinus,hippotragus equinus,antilope rouanne,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,ovis,ammon,ovis ammon,argali,,,Least Concern
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,accipiter,gentilis,accipiter gentilis,autour des palombes,,,Least Concern
+animal,chorde vertebre,oiseau,charadriiforme,recurvirostride,recurvirostra,avosetta,recurvirostra avosetta,avocette elegante,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,cetardiodactyle suiforme,suide babyrousine,babyrousa,babyrussa,babyrousa babyrussa,babiroussa,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,bos,javanicus,bos javanicus,banteng,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,dorcatragus,megalotis,dorcatragus megalotis,beira,,,Near Threatened
+animal,chorde vertebre,oiseau,passeriforme,motacillide,motacilla,alba,motacilla alba,bergeronnette grise,,,Least Concern
+animal,chorde vertebre,oiseau,anseriforme,anatide,branta,canadensis,branta canadensis,bernache du canada,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide alcelaphine,damaliscus,pygargus,damaliscus pygargus,blesbok,,,Near Threatened
+animal,chorde vertebre,reptile,squamate,boide,boa,constrictor,boa constrictor,boa constricteur,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,tragelaphus,eurycerus,tragelaphus eurycerus,bongo,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,capra,walie,capra walie,bouquetin d'abyssinie,,,Lower Risk/conservation dependent
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,capra,nubiana,capra nubiana,bouquetin de nubie,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,fringillide,pyrrhula,pyrrhula,pyrrhula pyrrhula,bouvreuil pivoine,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,emberizide,emberiza,citrinella,emberiza citrinella,bruant jaune,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,emberizide,emberiza,hortulana,emberiza hortulana,bruant ortolan,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,bubalus,bubalis,bubalus bubalis,buffle d'asie,,,Least Concern
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,circus,cyaneus,circus cyaneus,busard saint-martin,,,Least Concern
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,buteo,buteo,buteo buteo,buse variable,,,Least Concern
+animal,chorde vertebre,oiseau,galliforme,phasianide,coturnix,coturnix,coturnix coturnix,caille des bles,,,Critically Endangered
+animal,chorde vertebre,oiseau,psittaciforme,cacatuide,nymphicus,hollandicus,nymphicus hollandicus,calopsitte elegante,,,Least Concern
+animal,chorde vertebre,mammifere,rodentien,cricetide,microtus,arvalis,microtus arvalis,campagnol des champs,,,Least Concern
+animal,chorde vertebre,oiseau,anseriforme,anatide,anas,platyrhynchos,anas platyrhynchos,canard colvert,,,Endangered
+animal,chorde vertebre,oiseau,anseriforme,anatide,aix,galericulata,aix galericulata,canard mandarin,,,Endangered
+animal,chorde vertebre,oiseau,anseriforme,anatide,anser,penelope,anas penelope,canard siffleur,,,Endangered
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cebide cebine,cebus,apella,cebus apella,capucin brun,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,felin feline,caracal,caracal,caracal caracal,caracal,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,rongeur castorimorphe,castoride,castor,fiber,castor fiber,castor d'europe,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,silvicultor,cephalophus silvicultor,cephalophe a dos jaune,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,rufilatus,cephalophus rufilatus,cephalophe a flancs roux,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,nigrifrons,cephalophus nigrifrons,cephalophe a front noir,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,leucogaster,cephalophus leucogaster,cephalophe a ventre blanc,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,philantomba,monticola,philantomba monticola,cephalophe bleu,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,adersi,cephalophus adersi,cephalophe d'ader,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,natalensis,cephalophus natalensis,cephalophe du natal,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,callipygus,cephalophus callipygus,cephalophe de peter,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,niger,cephalophus niger,cephalophe noir,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide cephalophine,cephalophus,zebra,cephalophus zebra,cephalophe zebre,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,cervide cervine,axis,axis,axis axis,cerf axis,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,cervide cervine,axis,porcinus,axis porcinus,cerf cochon,,,Endangered
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,canide,canis,adustus,canis adustus,chacal a flancs rayes,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,canide,canis,aureus,canis aureus,chacal dore,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle,camelide,camelus,bactrianus ferus,camelus bactrianus ferus,chameau sauvage de tartarie,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,fringillide,carduelis,carduelis,carduelis carduelis,chardonneret elegant,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,chiroptere,vespertilionide,pipistrellus,pipistrellus,pipistrellus pipistrellus,chauve-souris pipistrelle commune,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,oreamnos,americanus,oreamnos americanus,chevre des montagnes rocheuses,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,capra,caucasica,capra caucasica,chevre du caucase occidental,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,canide,canis,lupus hallstromi,canis lupus hallstromi,chien chanteur de nouvelle-guinee,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,canide,speothos,venaticus,speothos venaticus,chien des buissons,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,corvide,coloeus,monedula,coloeus monedula,choucas des tours,,,Least Concern
+animal,chorde vertebre,oiseau,strigiforme,strigide,athene,noctua,athene noctua,chouette cheveche d'athena,,,Aucun résultat
+animal,chorde vertebre,oiseau,ciconiiforme,ciconiide,ciconia,ciconia,ciconia ciconia,cigogne blanche,,,Critically Endangered
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,viverride viverrine,civettictis,civetta,civettictis civetta,civette africaine,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide reduncine,kobus,ellipsiprymnus,kobus ellipsiprymnus,cobe a croissant,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide reduncine,kobus,kob,kobus kob,cobe de buffon,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide reduncine,kobus,leche,kobus leche,cobe de lechwe,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide reduncine,kobus,megaceros,kobus megaceros,obe de mrs gray,,,Endangered
+animal,chorde vertebre,oiseau,apodiforme,trochilide,cynanthus,latirostris,cynanthus latirostris,colibri circe,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,corvide,corvus,frugilegus,corvus frugilegus,corbeau freux,,,Critically Endangered
+animal,chorde vertebre,oiseau,passeriforme,corvide,corvus,corone,corvus corone,corneille noire,,,Critically Endangered
+animal,chorde vertebre,oiseau,cuculiforme,cuculide,cuculus,canorus,cuculus canorus,coucou gris,,,Least Concern
+animal,chorde vertebre,oiseau,anseriforme,anatide,cygnus,atratus,cygnus atratus,cygne noir,,,Endangered
+animal,chorde vertebre,oiseau,anseriforme,anatide,cygnus,olor,cygnus olor,cygne tubercule,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,cervide cervine,dama,dama,dama dama,daim,,,Vulnerable
+animal,chorde vertebre,mammifere therien,cetace odontocete,delphinide delphinine,delphinus,delphis,delphinus delphis,dauphin commun a bec court,,,Near Threatened
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,madoqua,piacentinii,madoqua piacentinii,dik-dik argente,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,madoqua,guentheri,madoqua guentheri,dik-dik de gunther,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,madoqua,kirkii,madoqua kirkii,dik-dik de kirk,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,madoqua,saltiana,madoqua saltiana,dik-dik de salt,,,Near Threatened
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,pygathrix,nemaeus,pygathrix nemaeus,douc,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide cercopithecine,mandrillus,leucophaeus,mandrillus leucophaeus,drill,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,taurotragus,derbianus,taurotragus derbianus,eland de derby,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,taurotragus,oryx,taurotragus oryx,eland commun,,,Least Concern
+animal,chorde vertebre,oiseau,caprimulgiforme,caprimulgide,caprimulgus,europaeus,caprimulgus europaeus,engoulevent d'europe,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,semnopithecus,entellus,semnopithecus entellus,entelle,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,trachypithecus,geei,trachypithecus geei,entelle dore,,,Vulnerable
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,accipiter,nisus,accipiter nisus,e,,,Near Threatened
+animal,chorde vertebre,oiseau,passeriforme,sturnide,sturnus,vulgaris,sturnus vulgaris,etourneau sansonnet,,,Aucun résultat
+animal,chorde vertebre,oiseau,galliforme,phasianide,phasianus,colchicus,phasianus colchicus,faisan de colchide,,,Least Concern
+animal,chorde vertebre,oiseau,falconiforme,falconide,falco,tinnunculus,falco tinnunculus,faucon crecerelle,,,Endangered
+animal,chorde vertebre,oiseau,passeriforme,sylviide,sylvia,atricapilla,sylvia atricapilla,fauvette a tete noire,,,Least Concern
+animal,chorde vertebre,oiseau,suliforme,sulide,morus,bassanus,morus bassanus,fou de bassan,,,Least Concern
+animal,chorde vertebre,oiseau,gruiforme,rallide,fulica,atra,fulica atra,foulque macroule,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide musteline,mustela,putorius furo,mustela putorius furo,furet,,,Endangered
+animal,chorde vertebre,oiseau,gruiforme,rallide,gallinula,chloropus,gallinula chloropus,gallinule poule-d'eau,,,Near Threatened
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,bos,gaurus,bos gaurus,gaur,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,subgutturosa,gazella subgutturosa,gazelle a goitre,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,nanger,dama,nanger dama,gazelle dama,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,cuvieri,gazella cuvieri,gazelle de cuvier,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,nanger,granti,nanger granti,gazelle de grant,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,gazella,gazella gazella,gazelle de montagne,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,leptoceros,gazella leptoceros,gazelle de rhim,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,nanger,soemmerringii,nanger soemmerringii,gazelle de sommering,,,Critically Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,spekei,gazella spekei,gazelle de speke,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,litocranius,walleri,litocranius walleri,gazelle de walle,,,Data Deficient
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,dorcas,gazella dorcas,gazelle dorcas,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide antilopine,gazella,bennettii,gazella bennettii,gazelle indienne,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,corvide,cyanocitta,cristata,cyanocitta cristata,geai bleu,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,corvide,garrulus,glandarius,garrulus glandarius,geai des chenes,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide cercopithecine,theropithecus,gelada,theropithecus gelada,gelada,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,viverride viverrine,genetta,genetta,genetta genetta,genette commune,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,nomascus,leucogenys,nomascus leucogenys,gibbon a favoris blancs du nord,,,Endangered
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,nomascus,gabriellae,nomascus gabriellae,gibbon a joues jaunes,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,hylobates,agilis,hylobates agilis,gibbon agile,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,nomascus,hainanus,nomascus hainanus,gibbon de hainan,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,hoolock,hoolock,hoolock hoolock,gibbon hoolock occidental,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,nomascus,concolor,nomascus concolor,gibbon noir,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,hylobates,pileatus,hylobates pileatus,gibbon a bonnet,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,hylobates,moloch,hylobates moloch,gibbon cendre,,,Endangered
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,hylobates,muelleri,hylobates muelleri,gibbon de muller,,,Critically Endangered
+animal,chorde vertebre,oiseau,charadriiforme,laride,larus,argentatus,larus argentatus,goeland argente,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,naemorhedus,caudatus,naemorhedus caudatus,goral a longue queue,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,naemorhedus,goral,naemorhedus goral,goral de l'himalaya,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,naemorhedus,baileyi,naemorhedus baileyi,goral roux,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,pseudois,nayaur,pseudois nayaur,grand bharal,,,Near Threatened
+animal,chorde vertebre,oiseau,passeriforme,corvide,corvus,corax,corvus corax,grand corbeau,,,Least Concern
+animal,chorde vertebre,oiseau,suliforme,phalacrocoracides,phalacrocorax,carbo,phalacrocorax carbo,grand cormoran,,,Vulnerable
+animal,chorde vertebre,oiseau,galliforme,phasianide,tetrao,urogallus,tetrao urogallus,grand tetras,,,Least Concern
+animal,chorde vertebre,oiseau,pelecaniforme,ardeide,ardea,alba,ardea alba,grande aigrette,,,Least Concern
+animal,chorde vertebre,oiseau,podicipediforme,podicipedide,podiceps,cristatus,podiceps cristatus,grebe huppe,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,certhiide,certhia,brachydactyla,certhia brachydactyla,grimpereau des jardins,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide musteline,galictis,vittata,galictis vittata,grison,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,turdide,turdus,philomelos,turdus philomelos,grive musicienne,,,Endangered
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,urside ursine,ursus,arctos horribilis,ursus arctos horribilis,grizzli,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,fringillide,coccothraustes,coccothraustes,coccothraustes coccothraustes,grosbec casse-noyaux,,,Endangered
+animal,chorde vertebre,oiseau,coraciiforme,meropide,merops,apiaster,merops apiaster,guepier d'europe,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,tragelaphus,scriptus,tragelaphus scriptus,guib harnache,,,Vulnerable
+animal,chorde vertebre,mammifere,rodentien,cricetide,cricetus,cricetus,cricetus cricetus,hamster d'europe,,,Endangered
+animal,chorde vertebre,oiseau,pelecaniforme,ardeide,ardea,cinerea,ardea cinerea,heron cendre,,,Critically Endangered
+animal,chorde vertebre,oiseau,pelecaniforme,ardeide,bubulcus,ibis,bubulcus ibis,heron garde-boeufs,,,Critically Endangered
+animal,chorde vertebre,oiseau,strigiforme,strigide,asio,otus,asio otus,hibou moyen-duc,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide hippotragine,hippotragus,niger,hippotragus niger,hippotrague noir,,,Least Concern
+animal,chorde vertebre,oiseau,bucerotiforme,upupide,upupa,epops,upupa epops,huppe fasciee,,,Endangered
+animal,chorde vertebre,oiseau,pelecaniformes,threskiornithide,threskiornis,aethiopicus,threskiornis aethiopicus,ibis sacre,,,Near Threatened
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,rupicapra,pyrenaica,rupicapra pyrenaica,isard,,,Critically Endangered
+animal,chorde vertebre,mammifere marsupial,diprotodonte,macropodide,macropus,rufus,macropus rufus,kangourou roux,,,Least Concern
+animal,chorde vertebre,oiseau,apterygiforme,apterygide,apteryx,australis,apteryx australis,kiwi austral,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle,bovide camelide,lama,glama,lama glama,lama,,,Least Concern
+animal,chorde vertebre,mammifere therien,sirenien,trichechide,trichechus,manatus,trichechus manatus,lamantin des caraibes,,,Endangered
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,trachypithecus,pileatus,trachypithecus pileatus,langur a capuchon,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,trachypithecus,delacouri,trachypithecus delacouri,langur de delacour,,,Near Threatened
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,trachypithecus,auratus,trachypithecus auratus,langur de java,,,Least Concern
+animal,chorde vertebre,mammifere,lagomorphe,leporide,oryctolagus,cuniculus,oryctolagus cuniculus,lapin de garenne,,,Least Concern
+animal,chorde vertebre,mammifere,rodentien,cricetide,lemmus,lemmus,lemmus lemmus,lemming commun,,,Near Threatened
+animal,chorde vertebre,mammifere,lagomorphe,leporide,lepus,europaeus,lepus europaeus,lievre d'europe,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,fringillide,linaria,cannabina,linaria cannabina,linotte melodieuse,,,Endangered
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,felin pantherine,panthera leo,krugeri,panthera leo krugeri,lion blanc,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,felin pantherine,panthera leo,persica,panthera leo persica,lion d'asie,,,Least Concern
+animal,chorde vertebre,mammifere therien,carnivore caniforme,otariide,zalophus,californianus,zalophus californianus,lion de mer de californie,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,oriolide,oriolus,oriolus,oriolus oriolus,loriot d'europe,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,canide,canis,lupus,canis lupus albus,loup de siberie,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide lutrine,lutra,lutra,lutra lutra,loutre d'europe,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide cercopithecine,macaca,radiata,macaca radiata,macaque commun,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide cercopithecine,mandrillus,sphinx,mandrillus sphinx,mandrill,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide cercopithecine,cercocebus,lunulatus,onne-photo-1,mangabey couronne,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide cercopithecine,lophocebus,aterrimus,lophocebus aterrimus,mangabey noir,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,herpestide herpestine,ichneumia,albicauda,ichneumia albicauda,mangouste a queue blanche,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,herpestide herpestine,galerella,sanguinea,galerella sanguinea,mangouste rouge,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,rongeur hystrichomorphe,cavide dolichotine,dolichotis,patagonum,dolichotis patagonum,mara de patagonie,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,capra,falconeri,capra falconeri,markhor,,,Near Threatened
+animal,chorde vertebre,mammifere therien,cetace odontocete,phocoenide,phocoena,phocoena,phocoena phocoena,marsouin commun,,,Least Concern
+animal,chorde vertebre,oiseau,apodiforme,apodide,apus,apus,apus apus,martinet noir,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,turdide,turdus,merula,turdus merula,merle noir,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,aegithalide,aegithalos,caudatus,aegithalos caudatus,mesange a longue queue,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,paride,cyanistes,caeruleus,cyanistes caeruleus,mesange bleue,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,paride,parus,major,parus major,mesange charbonniere,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,paride,lophophanes,cristatus,lophophanes cristatus,mesange huppee,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,paride,periparus,ater,periparus ater,mesange noire,,,Endangered
+animal,chorde vertebre,oiseau,passeriforme,paride,poecile,palustris,poecile palustris,mesange nonnette,,,Least Concern
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,milvus,migrans,milvus migrans,milan noir,,,Least Concern
+animal,chorde vertebre,oiseau,accipitriforme,accipitride,milvus,milvus,milvus milvus,milan royal,,,Aucun résultat
+animal,chorde vertebre,oiseau,passeriforme,passeride,passer,domesticus,passer domesticus,moineau domestique,,,Least Concern
+animal,chorde vertebre,mammifere therien,carnivore caniforme,odobenide,odobenus,rosmarus,odobenus rosmarus,morse,,,Least Concern
+animal,chorde vertebre,mammifere,rodentien,muride,apodemus,sylvaticus,apodemus sylvaticus,mulot sylvestre,,,Endangered
+animal,chorde vertebre,mammifere,soricomorphe,soricide,sorex,araneus,sorex araneus,musaraigne carrelet,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,cercopithecide colobine,simias,concolor,simias concolor,nasique des iles pagai,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,tragelaphus,buxtoni,tragelaphus buxtoni,nyala de montagne,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,felin feline,leopardus,pardalis,leopardus pardalis,mammifere carnivore,,,Least Concern
+animal,chorde vertebre,oiseau,anseriforme,anatide,anser,anser,anser anser,oie cendree,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,"hominide, pongide",pongo,abelii,pongo abelii,orang-outan de sumatra,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle,cervide capreoline,alces,americanus,alces americanus,orignal,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide hippotragine,oryx,dammah,oryx dammah,oryx algazelle,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide hippotragine,oryx,beisa,oryx beisa,oryx beisa,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide hippotragine,oryx,leucoryx,oryx leucoryx,oryx d'arabie,,,Least Concern
+animal,chorde vertebre,mammifere therien,carnivore caniforme,otariide,arctocephalus,gazella,arctocephalus gazella,otarie de kerguelen,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,canide,otocyon,megalotis,otocyon megalotis,otocyon,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,callitrichide,callithrix,jacchus,callithrix jacchus,ouistiti a toupets blancs,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,urside ursine,ursus,arctosmiddendorffi,ursus arctos middendorffi,ours kodiak,,,Endangered
+animal,chorde vertebre,oiseau,gruiforme,otidide,tetrax,tetrax,tetrax tetrax,espece d'oiseau,,,Aucun résultat
+animal,chorde vertebre,oiseau,columbiforme,columbide,columba,palumbus,columba palumbus,pigeon ramier,,,Least Concern
+animal,chorde vertebre,mammifere,pholidote,manide,manis,gigantea,manis gigantea,pangolin geant,,,Least Concern
+animal,chorde vertebre,oiseau,galliforme,phasianide,pavo,cristatus,pavo cristatus,paon bleu,,,Least Concern
+animal,chorde vertebre,mammifere therien,pilosa,megalonychide,choloepus,didactylus,choloepus didactylus,paresseux a 2 doigts,,,Least Concern
+animal,chorde vertebre,oiseau,pelecaniforme,pelecanide,pelecanus,onocrotalus,pelecanus onocrotalus,pelican blanc,,,Least Concern
+animal,chorde vertebre,oiseau,galliforme,phasianide,perdix,perdix,perdix perdix,perdrix grise,,,Least Concern
+animal,chorde vertebre,oiseau,galliforme,phasianide,alectoris,rufa,alectoris rufa,perdrix rouge,,,Least Concern
+animal,chorde vertebre,oiseau,psittaciforme,psittacide,psittacula,krameri,psittacula krameri,perruche a collier,,,Least Concern
+animal,chorde vertebre,oiseau,psittaciforme,psittacide,melopsittacus,undulatus,melopsittacus undulatus,perruche ondulee,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,pseudois,schaeferi,pseudois schaeferi,petit bharal,,,Least Concern
+animal,chorde vertebre,oiseau,strigiforme,strigide,otus,scops,otus scops,petit-duc scops,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,tragelaphus,imberbis,tragelaphus imberbis,petit koudou,,,Vulnerable
+animal,chorde vertebre,oiseau,piciforme,picide,dendrocopos,major,dendrocopos major,pic epeiche,,,Least Concern
+animal,chorde vertebre,oiseau,piciforme,picide,picus,viridis,picus viridis,pic vert,,,Endangered
+animal,chorde vertebre,oiseau,passeriforme,corvide,pica,pica,pica pica,pie bavarde,,,Endangered
+animal,chorde vertebre,oiseau,charadriiforme,alcide,alca,torda,alcatorda,pingouin torda,,,Endangered
+animal,chorde vertebre,oiseau,passeriforme,fringillide,fringilla,coelebs,fringilla coelebs,pinson des arbres,,,Near Threatened
+animal,chorde vertebre,mammifere,rodntien,hystricide,hystrix,cristata,hystrix cristata,porc-epic a crete,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,cetartiodactyle suiforme,suide,potamochoerus,larvatus,potamochoerus larvatus,potamochere du cap,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide reduncine,kobus,vardonii,kobus vardonii,puku,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide musteline,mustela,putorius,mustela putorius,putois d'europe,,,Least Concern
+animal,chorde vertebre,reptile,squamate,pythonide,python,sebae,python sebae,python de seba,,,Critically Endangered
+animal,chorde vertebre,reptile,squamate,pythonide,malayopython,reticulatus,malayopython reticulatus,python reticule,,,Endangered
+animal,chorde vertebre,reptile,squamate,pythonide,python,regius,python regius,python royal,,,Endangered
+animal,chorde vertebre,mammifere placentaire,artiodactyle,bovide antilopine,raphicerus,campestris,raphicerus campestris,raphicere champetre,,,Endangered
+animal,chorde vertebre,mammifere placentaire,rodentien,cricetide,ondatra,zibethicus,ondatra zibethicus,rat musque,,,Critically Endangered
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide mellivorine,mellivora,capensis,mellivora capensis,ratel du cap,,,Endangered
+animal,chorde vertebre,chondrichthyens elasmobranchii,carcharhiniforme,carcharhinide,carcharhinus,leucas,carcharhinus leucas,requin bouledogue,,,Vulnerable
+animal,chorde vertebre,chondrichthyens elasmobranchii,carcharhiniforme,carcharhinide,galeocerdo,cuvier,galeocerdo cuvier,requin tigre,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,regulide,regulus,regulus,regulus regulus,roitelet huppe,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,muscicapide,luscinia,megarhynchos,luscinia megarhynchos,rossignol philomele,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,muscicapide,erithacus,rubecula,erithacusrubecula,rouge-gorge familier,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,muscicapide,phoenicurus,ochruros,phoenicurus ochruros,rougequeue noir,,,Least Concern
+animal,chorde vertebre,oiseau,anseriforme,anatide,anas,crecca,anas crecca,sarcelle d'hiver,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide alcelaphine,damaliscus,lunatus,damaliscus lunatus,sassabi,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,fringillide,serinus,serinus,serinus serinus,serin cini,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,hylobatide,hylobates,klossii,hylobates klossii,siamang de kloss,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorhinien,atelide ateline,ateles,fusciceps,ateles fusciceps,singe araignee a tete brune,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorhinien,atelide ateline,ateles,geoffroyi,ateles geoffroyi,singe araignee aux mains noires,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorhinien,atelide ateline,ateles,paniscus,ateles paniscus,singe araignee commun,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorhinien,atelide alouate,alouatta,palliata,alouatta palliata,singe hurleur a manteau,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,primate haplorhinien,atelide alouate,alouatta,pigra,alouatta pigra,singe hurleur du guatemala,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,tragelaphus,spekii,tragelaphus spekii,sitatunga,,,Vulnerable
+animal,chorde vertebre,oiseau,passeriforme,sittide,sitta,europaea,sitta europaea,sittelle torchepot,,,Least Concern
+animal,chorde vertebre,oiseau,pelecaniforme,threskiornithide,platalea,leucorodia,platalea leucorodia,spatule blanche,,,Vulnerable
+animal,chorde vertebre,mammifere,primate,callitrichide,leontopithecus,rosalia,leontopithecus rosalia,tamarin-lion dore,,,Endangered
+animal,chorde vertebre,mammifere placentaire,primate haplorrhinien,tarsiide,carlito,syrichta,carlito syrichta,tarsier des philippines,,,Least Concern
+animal,chorde vertebre,mammifere therien,soricomorphe,talpide,talpa,europaea,talpa europaea,taupe d'europe,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,felin pantherine,panthera,tigris altaica,panthera tigris altaica,tigre de siberie,,,Aucun résultat
+animal,chorde vertebre,mammifere placentaire,carnivore feliforme,felin pantherine,panthera,tigris tigris,panthera tigris tigris,tigre du bengale,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide alcelaphine,damaliscus,korrigum,damaliscus korrigum,topi,,,Least Concern
+animal,chorde vertebre,reptile,testudines,testudinide,testudo,hermanni,testudo hermanni,tortue d'hermann,,,Aucun résultat
+animal,chorde vertebre,oiseau,columbiforme,columbide,streptopelia,turtur,streptopelia turtur,tourterelle des bois,,,Aucun résultat
+animal,chorde vertebre,oiseau,columbiforme,columbide,streptopelia,decaocto,streptopelia decaocto,tourterelle turque,,,Vulnerable
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide caprine,ovis,vignei,ovis vignei,urial,,,Aucun résultat
+animal,chorde vertebre,oiseau,accipitriforme,cathartide,coragyps,atratus,coragyps atratus,urubu noir,,,Near Threatened
+animal,chorde vertebre,oiseau,charadriiforme,charadriide,vanellus,vanellus,vanellus vanellus,vanneau huppe,,,Near Threatened
+animal,chorde vertebre,reptile,squamate,varanide,varanus,gouldii,varanus gouldii,varan de gould,,,Least Concern
+animal,chorde vertebre,reptile,squamate,varanide,varanus,niloticus,varanus niloticus,varan du nil,,,Least Concern
+animal,chorde vertebre,oiseau,passeriforme,fringillide,chloris,chloris,chloris chloris,verdier d'europe,,,Least Concern
+animal,chorde vertebre,reptile,squamate,viperide,vipera,aspis,vipera aspis,vipere aspic,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide musteline,mustela,lutreola,mustela lutreola,vison d'europe,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,artiodactyle ruminant,bovide bovine,bos,grunniens,bos grunniens,yak,,,Least Concern
+animal,chorde vertebre,mammifere placentaire,carnivore caniforme,mustelide musteline,martes,zibellina,martes zibellina,zibeline,,,Least Concern
